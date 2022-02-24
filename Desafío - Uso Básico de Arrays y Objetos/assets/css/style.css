@@ -1,0 +1,37 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(236, 185, 122);
+}
+
+h1{
+    text-align: center;
+    padding: 4rem;
+}
+
+h3 {
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+
+p {
+    
+    padding-left: 20%;
+    color:rgb(56, 50, 50);
+}
+.size_txt{
+    font-size: 20px;
+}
+
+.tabla {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.alert {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.alert2 {
+    padding-left: 30%;
+}
