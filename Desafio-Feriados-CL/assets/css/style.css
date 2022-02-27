@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#tabla{
+    padding-bottom: 20%;
+}
+#1footer{
+    /*  poner footer abajo */
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
