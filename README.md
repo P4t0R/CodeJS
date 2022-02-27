@@ -12,5 +12,7 @@ https://p4t0r.github.io/CodeJS/
 
 [Desafío - Uso de Métodos con Arrays y Objetos](https://p4t0r.github.io/CodeJS/Desafio-MetodosArraysObjetos)
 
+[Desafío - Mini desafío jQuery](https://p4t0r.github.io/CodeJS/Desafio-MinijQuery)
+
 [Desafío - Feriados de Chile](https://p4t0r.github.io/CodeJS/Desafio-Feriados-CL)
 
