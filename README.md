@@ -18,3 +18,5 @@ https://p4t0r.github.io/CodeJS/
 
 [Desafío - Feriados de Chile](https://p4t0r.github.io/CodeJS/Desafio-Feriados-CL)
 
+[SuperHero-Finder](https://p4t0r.github.io/CodeJS/SuperHero-Finder)
+
